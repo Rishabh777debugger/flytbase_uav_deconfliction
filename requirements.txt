@@ -1,0 +1,24 @@
+# UAV Strategic Deconfliction System - Requirements
+
+# Core dependencies
+numpy>=1.21.0          # Numerical computing and arrays
+matplotlib>=3.4.0      # Visualization and plotting
+
+# Optional dependencies for production
+# Uncomment if deploying to cloud infrastructure
+
+# kafka-python>=2.0.0        # Kafka producer/consumer for distributed systems
+# influxdb-client>=1.18.0    # InfluxDB time-series database client
+# redis>=3.5.0               # Redis cache client
+# psycopg2-binary>=2.9.0     # PostgreSQL database adapter
+# flask>=2.0.0               # Web framework for API endpoints
+# pytest>=6.0.0              # Testing framework
+
+# Development dependencies
+# pytest-cov>=2.12.0         # Code coverage for tests
+# black>=21.0                # Code formatter
+# pylint>=2.8.0              # Code linter
+# mypy>=0.910                # Static type checker
+
+# Minimum Python version: 3.8+
+# Python: >=3.8
