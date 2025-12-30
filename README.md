@@ -356,26 +356,6 @@ These details are elaborated in `REFLECTION_AND_DESIGN.md`.[web:1]
 
 ---
 
-## File Structure
-
-Recommended project layout:
-
-```
-project/
-├── uav_deconfliction_complete.py      # Main implementation
-├── test_deconfliction_suite.py        # Test suite
-├── README.md                          # This file
-├── REFLECTION_AND_DESIGN.md           # Reflection & design doc
-├── QUICK_START.md                     # 2-minute setup guide
-├── IMPLEMENTATION_NOTES.md            # Deep-dive technical notes
-├── SUBMISSION_SUMMARY.md              # Rubric-based summary
-├── COMPLETE_SOLUTION_INDEX.md         # File manifest
-├── START_HERE.md                      # Orientation entrypoint
-└── requirements.txt                   # Dependencies
-```
-
----
-
 ## Limitations & Future Work
 
 Current limitations:
@@ -414,4 +394,5 @@ If you:
 [4](https://www.bragitoff.com/2020/10/3d-trajectory-animated-using-matplotlib-python/)
 [5](https://github.com/AbhiFutureTech/UAV-Strategic-Deconfliction-System)
 [6](https://www.mathworks.com/help/nav/ref/waypointtrajectory-system-object.html)
+
 [7](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/84521017/26193644-c626-4cda-8ca7-b01ec2c3da5f/FlytBase-Robotics-Assignment-2025.pdf)
